@@ -7,8 +7,10 @@ This repo is the code for the paper, titled "Attention based parameter estimatio
 The main dataset was taken from: https://sites.google.com/view/snuaric/data/covid-19-data/covid-19-data?authuser=0.
 
 
-my_covid_research---> intended for South Korea case
-my_covid_research2---> intended for Germany case
+-'my_covid_research'---> intended for South Korea case
+
+
+-'my_covid_research2'---> intended for Germany case
 
 
 
